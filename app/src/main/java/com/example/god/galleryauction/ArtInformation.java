@@ -55,6 +55,7 @@ public class ArtInformation extends AppCompatActivity {
 //            StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 //            StrictMode.setThreadPolicy(policy);
 //        }
+        //asdasd
         //change(C_tagId);
         System.out.println("onCreate : "+C_tagId);
         //new Connection().execute();
